@@ -16,6 +16,7 @@
 - git merge <BRANCH>
 - git reset HEAD NOME_DO_ARQUIVO>
 - git diff <NOME_DO_ARQUIVO>
+- git commit --amend -m "<NOVA MENSAGEM>"
   
 
 
