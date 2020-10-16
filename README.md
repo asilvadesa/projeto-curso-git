@@ -1,4 +1,5 @@
-# Curso de Introdução ao GitHub e comandos para trabalhar em equipe - Digital Innovation One (Bootcamp Java Developer)
+# Curso de Introdução ao GitHub e comandos para trabalhar em equipe 
+### Digital Innovation One (Bootcamp Java Developer)
 
 ## Principais comandos utilizados
 - git init
