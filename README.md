@@ -14,6 +14,8 @@
 - git checkout -b <NOME DA NOVA BRACH>
 - git branch -D <NOME DA BRANCH>
 - git merge <BRANCH>
-
+- git reset HEAD NOME_DO_ARQUIVO>
+- git diff <NOME_DO_ARQUIVO>
+  
 
 
